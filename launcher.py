@@ -1,4 +1,10 @@
 import tkinter as tk
+games=[
+    {'id':'snake','title':'Snake'},
+    {'id':'pong','title':'Pong'},
+    {'id':'tetris','title':'Tetris'},
+    {'id':'minesweeper','title':'Minesweeper'}
+]
 #creating window
 root=tk.Tk()
 root.geometry("1000x600")
@@ -10,4 +16,12 @@ right_frame=tk.Frame(root, width=400, bg='#3d3d3d')
 top_frame.pack(side='top', fill='x')
 left_frame.pack(side='left', expand=True, fill='both')
 right_frame.pack(side='right', fill='both')
+
+#adding game cards to left panel
+for row,game in enumerate(games):
+    title_label=tk.Label(left_frame, text=game['title'], font=('Segoe UI',15),bg='#2e2e2e', fg="white")
+    title_label.grid(row=row, column=0, padx=15, pady=10,sticky='w')
+
+    details_btn=tk.Button(left_frame, text='Details')
+    details_btn.grid(row=row,column=1,padx=10)
 root.mainloop()
