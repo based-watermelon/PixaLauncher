@@ -1,7 +1,7 @@
 # PixaLauncher
 
 PixaLauncher is a simple game launcher built with Python and Tkinter.  
-It lets you launch multiple mini-games (like Snake, Pong, Minesweeper, Tetris) from a single interface — a bit like a lightweight Steam clone. :contentReference[oaicite:0]{index=0}
+It lets you launch multiple mini-games (like Snake, Pong, Minesweeper, Tetris) from a single interface — a bit like a lightweight Steam clone. 
 
 ---
 
@@ -12,7 +12,7 @@ It lets you launch multiple mini-games (like Snake, Pong, Minesweeper, Tetris) f
 - Launch games in separate windows  
 - Search games by name  
 - Built using Python and Tkinter  
-- GPL-3.0 Licensed :contentReference[oaicite:1]{index=1}
+- GPL-3.0 Licensed 
 
 ---
 
