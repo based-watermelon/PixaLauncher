@@ -72,7 +72,6 @@ python launcher.py
 
 <img width="746" height="784" alt="Tetrismania" src="https://github.com/user-attachments/assets/df89c6fd-2bf9-4d43-ae85-7247a49c08dc" />
 
-<img width="1117" height="787" alt="NeonPong" src="https://github.com/user-attachments/assets/5d244255-2560-44b9-9e8e-61d69d75e8ca" />
 
 
 ## License
