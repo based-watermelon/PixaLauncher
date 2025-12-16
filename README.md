@@ -64,6 +64,16 @@ python launcher.py
 ## Screenshots
 
 
+<img width="1918" height="1131" alt="PixaLauncherMain" src="https://github.com/user-attachments/assets/0048860c-158a-49f1-8b69-87639ef5e697" />
+---
+<img width="748" height="534" alt="Snake io" src="https://github.com/user-attachments/assets/8d89e169-4d9f-4ba2-be2f-2b9947ad1027" />
+---
+<img width="1117" height="787" alt="NeonPong" src="https://github.com/user-attachments/assets/775f7915-769c-41bf-994f-0554cf654723" />
+---
+<img width="746" height="784" alt="Tetrismania" src="https://github.com/user-attachments/assets/df89c6fd-2bf9-4d43-ae85-7247a49c08dc" />
+---
+<img width="1117" height="787" alt="NeonPong" src="https://github.com/user-attachments/assets/5d244255-2560-44b9-9e8e-61d69d75e8ca" />
+---
 
 ## License
 
