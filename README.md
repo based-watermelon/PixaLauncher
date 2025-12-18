@@ -72,6 +72,7 @@ python launcher.py
 
 <img width="746" height="784" alt="Tetrismania" src="https://github.com/user-attachments/assets/df89c6fd-2bf9-4d43-ae85-7247a49c08dc" />
 
+<img width="347" height="361" alt="Minesweeper" src="https://github.com/user-attachments/assets/bbae2e25-8d47-46ce-8a3a-39cecba9b4cf" />
 
 
 ## License
